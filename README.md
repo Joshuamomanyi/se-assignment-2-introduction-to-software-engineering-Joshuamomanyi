@@ -182,8 +182,3 @@ Accessibility Standards: Adhering to accessibility standards to ensure that soft
 Continuous Learning: Engaging in ongoing education and professional development to stay informed about emerging ethical issues and best practices in the field.
 
 
-Submission Guidelines:
-Your answers should be well-structured, concise, and to the point.
-Provide real-world examples or case studies wherever possible.
-Cite any references or sources you use in your answers.
-Submit your completed assignment by [due date].
